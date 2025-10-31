@@ -181,6 +181,39 @@ export const myProjects = [
       },
     ],
   },
+  {
+    id: 7,
+    title: "Netflix Clone",
+    description:
+      " A responsive Netflix-like streaming UI built with React, featuring dynamic movie cards, search, and trailer previews.",
+    subDescription: [
+      "Responsive UI with flexible layouts and modern UX patterns",
+      "Fetches movie data from an external API and handles loading states",
+      "Playable trailer preview modal with keyboard accessibility",
+      "State management for favorites and user preferences",
+    ],
+    href: "https://netfliex-clone-gamma.vercel.app/",
+    logo: "/assets/logos/logo-netflix.png",
+    image:
+      "/assets/projects/netfliex-clone-gamma.vercel.app_(Nest Hub Max).png",
+    tags: [
+      {
+        id: 1,
+        name: "React",
+        path: "/assets/logos/react.svg",
+      },
+      {
+        id: 2,
+        name: "Tailwind Css",
+        path: "/assets/logos/css3.svg",
+      },
+      {
+        id: 3,
+        name: "Firebase",
+        path: "/assets/logos/touchicon-180.png",
+      },
+    ],
+  },
 ];
 
 export const mySocials = [
