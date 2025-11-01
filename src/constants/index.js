@@ -232,4 +232,9 @@ export const mySocials = [
     href: "https://github.com/esraaabdel-kareem?tab=repositories",
     icon: "/assets/socials/github.svg",
   },
+  {
+    name: "Uiverse Io",
+    href: "https://uiverse.io/profile/esraaabdel-kareem",
+    icon: "/assets/socials/UIverse.png",
+  },
 ];
