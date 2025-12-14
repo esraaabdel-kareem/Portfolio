@@ -214,6 +214,36 @@ export const myProjects = [
       },
     ],
   },
+  {
+    id: 8,
+    title: "A.Abd Elkareem Portfolio",
+    description:
+      "Developed a professional architectural portfolio website featuring project showcases, smooth scroll animations, and responsive design to enhance user engagement and visual storytelling.",
+    subDescription: [
+      "A responsive and visually engaging website built to highlight architectural projects using modern web technologies and interactive UI components.",
+      "Designed and developed using Next.js with custom animations and reusable components to ensure performance, scalability, and a professional visual identity.",
+    ],
+    href: "https://ahmedabdelkareem.netlify.app/",
+    logo: "/assets/logos/Logo.jpg",
+    image: "/assets/projects/ahmedabdelkareem.netlify.app.png",
+    tags: [
+      {
+        id: 1,
+        name: "Next Js",
+        path: "/assets/logos/nextjs.svg",
+      },
+      {
+        id: 2,
+        name: "Tailwind Css",
+        path: "/assets/logos/tailwindcss.svg",
+      },
+      {
+        id: 3,
+        name: "Typescript",
+        path: "/assets/logos/ts.svg",
+      },
+    ],
+  },
 ];
 
 export const mySocials = [
