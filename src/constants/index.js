@@ -268,3 +268,4 @@ export const mySocials = [
     icon: "/assets/socials/UIverse.png",
   },
 ];
+
